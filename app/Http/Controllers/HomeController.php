@@ -16,5 +16,7 @@ class HomeController extends Controller
         dd($name);
 
         return 'Email was sent';
+
+        //Ronaldo is the best
     }
 }
